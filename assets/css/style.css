@@ -1,0 +1,34 @@
+body {
+  font-family: 'Quicksand', sans-serif;
+
+}
+
+header {
+  background-image: url('../img/fotoportada4.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 12rem;
+  background-position: center;
+}
+
+.underline {
+  border-bottom: 2px solid;
+  display: inline-block;
+  font-weight: 700;
+  }
+
+.title_big {
+  font-weight: 700;
+}
+
+.title_little {
+  font-weight: 400;
+
+}
+
+img {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: auto;
+  }
